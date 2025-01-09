@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Amaziah Yahalom (@amaziatower)
+# 👋 Hi, I’m Amaziah Yahalom (amaziaytower@gmail.com)
 
 - 👀 **I’m interested in:** Artificial Intelligence, Machine Learning, Logistics Optimization, and Community Engagement through AI.  
 - 🌱 **I’m currently learning:** Advanced Natural Language Processing, LangChain integrations, and cutting-edge AI tools.  
