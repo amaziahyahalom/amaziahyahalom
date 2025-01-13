@@ -4,8 +4,7 @@
 - 👀 **I’m interested in:** Artificial Intelligence, Machine Learning, Logistics Optimization, and Community Engagement through AI.  
 - 🌱 **I’m currently learning:** Advanced Natural Language Processing, LangChain integrations, and cutting-edge AI tools.  
 - 💞️ **I’m looking to collaborate on:** Scalable AI projects, Chatbot Development, and Predictive Analytics solutions.  
-- 📫 **How to reach me:** amaziaytower@gmail.com  
-- ⚡ **Fun fact:** I led the development of tmonk.net, a platform combining AI and social initiatives for community impact!  
+- ⚡ **Fun fact:** I led the development of tmonk.net, a platform combining AI and social initiatives for community impact! 
 
 ---
 
