@@ -5,7 +5,7 @@
 - 🌱 **I’m currently learning:** Advanced Natural Language Processing, LangChain integrations, and cutting-edge AI tools.  
 - 💞️ **I’m looking to collaborate on:** Scalable AI projects, Chatbot Development, and Predictive Analytics solutions.  
 - ⚡ **Fun fact:** I led the development of tmonk.net, a platform combining AI and social initiatives for community impact! 
-
+[krissdocs](https://kriss-docs.vercel.app/)
 ---
 
 ## 🛠️ Skills and Technologies
