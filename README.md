@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Amaziah Yahalom
-📧 amaziaytower@gmail.com | 📞 +16787482048 | [About Me](https://amaziah.vercel.app/)
+📧 amaziaytower@gmail.com | 📞 +16787482048 | [About Me](https://amazia-ai-portfolio.vercel.app/) 
 
 - 👀 **I’m interested in:** Artificial Intelligence, Machine Learning, Logistics Optimization, and Community Engagement through AI.  
 - 🌱 **I’m currently learning:** Advanced Natural Language Processing, LangChain integrations, and cutting-edge AI tools.  
