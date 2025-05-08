@@ -1,7 +1,3 @@
-# 👋 Hi, I’m Amaziah Yahalom
-📧 amaziaytower@gmail.com | 📞 +16787482048 | [About Me](https://amazia-ai-portfolio.vercel.app/) 
-
----
 
 ## 🚀 Projects
 - **tmonk.net (2018–2024):** AI-powered platform for social initiatives and community engagement.  
